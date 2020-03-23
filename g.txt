@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 sfsfaafdsafafafaf
+=======
+中华人民共和国?
+aaaa?
+你在干什么?
+
+sfsfsfsfsfsf
+>>>>>>> master
